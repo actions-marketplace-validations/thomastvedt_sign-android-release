@@ -1,5 +1,11 @@
 # Sign Android Release Action
 
+This is forked from:
+https://github.com/r0adkll/sign-android-release
+testing build while waiting for:
+https://github.com/r0adkll/sign-android-release/pull/24
+
+
 This action will help you sign an Android `.apk` or `.aab` (Android App Bundle) file for release.
 
 ## Inputs
@@ -21,7 +27,7 @@ Then copy the contents of the `.txt` file to your GH secrets
 
 ### `alias`
 
-**Required:** The alias of your signing key 
+**Required:** The alias of your signing key
 
 ### `keyStorePassword`
 
