@@ -5,6 +5,7 @@ https://github.com/r0adkll/sign-android-release
 testing build while waiting for:
 https://github.com/r0adkll/sign-android-release/pull/24
 
+*⚠️ Note: PR above and fix is merged, so don't use `r0adkll/sign-android-release` 👍* 
 
 This action will help you sign an Android `.apk` or `.aab` (Android App Bundle) file for release.
 
